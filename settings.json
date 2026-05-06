@@ -1,0 +1,8 @@
+{
+  "Width": 50,
+  "Height": 20,
+  "CellSize": 1,
+  "Density": 0.25,
+  "DelayMs": 200,
+  "Generations": 200
+}
